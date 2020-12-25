@@ -3,3 +3,4 @@ Gitの練習を保存するべ :-)
 
 ・git add
 ・git commit
+・git rm
