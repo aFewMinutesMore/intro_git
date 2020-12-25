@@ -6,3 +6,5 @@ Gitの練習を保存するべ :-)
 ・git rm
 ・git status
 ・git diff
+
+***********
