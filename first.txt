@@ -1,6 +1,7 @@
 Gitの練習を保存するべ :-)
 基本的なワークフローを学習します。
-
+～コマンド一覧～
 ・git add
 ・git commit
 ・git rm
+・git status
